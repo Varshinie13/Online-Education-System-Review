@@ -79,8 +79,13 @@ Page 2: Habits & Lifestyle
 
 Dashboards:
 
-<img width="960" height="540" alt="Screenshot 2026-04-08 204558" src="https://github.com/user-attachments/assets/92304667-f8a6-417d-ad73-89037308e85f" />
-<img width="960" height="540" alt="Screenshot 2026-04-08 204337" src="https://github.com/user-attachments/assets/d0d3d009-87ff-4588-aef1-290f8f2f41ff" />
+1. Digital Divide Dashboard:
+
+<img width="1382" height="831" alt="Screenshot 2026-04-08 204558" src="https://github.com/user-attachments/assets/6ee65a58-0f99-442b-844e-9bd4adb9a3df" />
+
+2. Habits and Lifestyle Dashboard:
+<img width="1397" height="840" alt="Screenshot 2026-04-08 204337" src="https://github.com/user-attachments/assets/91c1455a-6505-490b-b7b5-2a9641bbb85d" />
+
 
 
 
