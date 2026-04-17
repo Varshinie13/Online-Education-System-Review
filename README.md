@@ -77,6 +77,12 @@ Page 2: Habits & Lifestyle
 •	Clustered Column Chart: Study Time by Economic Status.
 •	Slicers: Allow users to filter the entire report by "Level of Education" and "Study Intensity.
 
+Dashboards:
+
+<img width="960" height="540" alt="Screenshot 2026-04-08 204558" src="https://github.com/user-attachments/assets/92304667-f8a6-417d-ad73-89037308e85f" />
+<img width="960" height="540" alt="Screenshot 2026-04-08 204337" src="https://github.com/user-attachments/assets/d0d3d009-87ff-4588-aef1-290f8f2f41ff" />
+
+
 
 Insights & Conclusions
 
