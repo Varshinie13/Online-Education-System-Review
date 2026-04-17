@@ -123,4 +123,6 @@ The project demonstrates that academic success in online education is not solely
 The "Digital Divide" is real—Home Location and Economic Status set the baseline for a student's potential. However, behavioural attributes like Study Intensity, Group Study engagement, and Sleep Management act as powerful "equalizers." If a student from a "Poor" background maintains high study intensity and utilizes group studies, they can bridge the performance gap caused by their economic status.
 Ultimately, for online education to be effective, stakeholders must move beyond just providing internet; they must foster an "Ideal Study Environment" that minimizes "Distraction Risk" and maximizes "Student Profile" focus.
 
+#PowerBI #DataAnalytics #Project #DataVisualization #DataCollection #DataCleaning #DataModelling #DAX
+
 
