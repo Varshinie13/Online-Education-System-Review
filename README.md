@@ -92,28 +92,50 @@ Insights & Conclusions
 Descriptive Analysis
 
 •	Most of the student population belongs to the "Middle Class" and resides in "Urban" areas.
+
 •	Laptop usage is the dominant mode of learning, but a significant portion still relies on mobile devices. While Laptops are the primary tool, a massive segment of 334 students (approx. 33%) attend classes via Mobile, which correlates with lower "Performance Ranks" in complex subjects.
+
+
 •	Urban students have a 54.79% better access to internet facilities compared to Rural students. This confirms a geographical "Digital Divide.
+
+
 •	The dataset shows a balanced Gender distribution, but "Level of Satisfaction" varies, with Urban females reporting higher satisfaction than Rural females due to better "Internet Locality.
+
+
 
 Diagnostic Analysis
 
 •	Lower academic scores in "Rural" areas are directly linked to poor "Internet Facility" and the lack of a "Separate Room for Studying. The "Separate Room for Studying" column is a major driver of success. Students with a private space show a 15% higher Average Score than those in large "Family Sizes" (6+ members) without a dedicated room.
+
+
 •	The "Distraction Risk" is highest in the "Middle Class." Diagnosis shows this is due to high "Time Spent on Social Media" (avg 3+ hours) paired with "Mobile" device usage, which facilitates easier switching between study apps and entertainment.
+
+
 •	Students where "Elderly people monitor you" show a consistent study intensity, whereas unmonitored students have a higher "Performance Variance."
 
 Predictive Analysis
 
 •	Students spending >4 hours on social media with <2 hours of study time are 85\% more likely to fall into the "Distracted Learner" profile.
+
+
 •	Based on the "Sleep Time" vs. "Average Score" trend, students who sleep less than 5 hours are predicted to see a 12% drop in "Performance Rank" over the next semester due to "Study Intensity" fatigue.
+
+
 •	Students who select "No" for both "Interested in" and "Engaged in group studies" are at a high risk of dropping out or reporting "Bad" satisfaction levels in online modes.
 
 Prescriptive Analysis
 
 •	Recommendation: To improve "Rural" performance, educational institutions should provide offline learning modules to mitigate poor internet access. Encouraging "Group Studies" is shown to increase satisfaction levels significantly.
+
+
 •	Since "Internet Facility" is the bottleneck, schools should prescribe asynchronous learning (recorded videos) rather than live "Online Mode" interactions to ensure those with poor connectivity aren't left behind.
+
+
 •	Students identified as "Distracted Learners" should be prescribed "Group Study" sessions. The data shows that "Clearing Doubts with Faculties" is 20% more effective when students participate in peer groups.
+
+
 •	To reach an "Ideal Study Environment," the data suggests a combination of a "Separate Room" and "Laptop" usage. Even in "Poor" economic statuses, providing a quiet space (Separate Room) significantly mitigates the negative impact of low income.
+
 
 Conclusion
 
