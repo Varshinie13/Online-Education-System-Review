@@ -3,8 +3,11 @@ This project explores the intersection of digital infrastructure, socio-economic
 
 Data Sources
 •	Primary Dataset: Online_Education_Trends_2021_1
+
 •	Size: 1,033 Rows.
+
 •	Origin: https://data.mendeley.com/datasets/bzk9zbyvv7/1/files/e4c6c2bd-eb9a-40ac-8642-d1796871dedb
+
 
 Problem Statement
 
@@ -13,48 +16,76 @@ The rapid transition to online learning has not been equitable. Students face va
 Economic & Environmental Factors
 
 •	Analyze the impact of economic status on the accessibility of high-quality learning tools.
+
 •	Investigate the correlation between a student’s economic status and the total time dedicated to studying.
+
 •	Evaluate the availability of internet facilities within the local areas of the student population.
+
 •	Compare the satisfaction levels regarding learning environments between rural and urban students.
+
 
 Social Media & Distraction Patterns
 
 •	Identify which level of education records the highest amount of time spent on social media.
+
 •	Determine the specific age groups of students that exhibit the highest social media consumption.
+
 •	Segment the student population to pinpoint cohorts at the highest risk of academic distraction.
+
 •	Correlate study intensity levels with the duration of daily social media usage.
+
 
 Learning Preferences & Home Environment
 
 •	Assess the preference distribution among students for practical, theoretical, or balanced learning approaches.
+
 •	Measure the impact of elderly family monitoring on the actual increase of a student’s study time.
 
 
+
  Tools & Technologies
+ 
 •	Microsoft Excel: Initial data cleaning and structure validation.
+
 •	Power Query: Data transformation, handling null values, and formatting columns.
+
 •	Power BI Desktop: DAX implementation, Data modeling, and Interactive visualization.
+
 •	Canva: Used for designing the background layout of the dashboard.
 
+
  Data pre-processing
+ 
 •	Cleaning: Standardized categorical values to ensure consistency in charts.
+
 •	Transformation: Used Power Query to create conditional columns for "Performance Rank" and "Study Intensity."
+
 •	Normalization: Ensured numerical columns like "Average Score" and "Sleep Time" were correctly typed for aggregation.
+
 
 DAX (Data Analysis Expressions)
 
 Key measures and columns were authored to drive the logic of the dashboard:
+
 •	Do the calculated column for how many subjects are handled by Students. 
+
 •	Find the intensity in studies of students (High, Moderate , Low) 
+
 •	Do the calculations for finding Performance Variance of Students.
+
 •	Analyse the Ideal Study Environment is available for students.
+
 
 Measures: 
 
 •	Find the Total Number of Students.
+
 •	Analyse Digital Access percentage of Students.
+
 •	Find the Satisfaction percentage of Students in Online Class
+
 •	Observe the Students involve in Group Study 
+
 
 Analysis & Visualization
 
